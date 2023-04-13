@@ -7,6 +7,7 @@
 官网上面所有的[emotiv设备对比](https://www.emotiv.com/comparison/), [官网所有可以购买的东西](https://www.emotiv.com/shop/)和[6种软件](https://www.emotiv.com/neuroscience-research-education-solutions/#:~:text=Brain%C2%A0measurement%20solutions%20for%20research%2C%20education%2C%20and%20personal%20insights)
 
 [教学使用](https://www.emotiv.com/eeg-headsets-for-education/)没什么特别的,如果有[科研使用](https://www.emotiv.com/neuroscience-research-education-solutions/)可以和emotiv申请[Demo](<https://www.emotiv.com/eeg-headsets-for-scientific-research/#:~:text=Complete%20your%20contact%20details%20below%2C%20and%20an%20EMOTIV%20Specialist%20will%20contact%20you.>)
+
 # 安装步骤
 
 1. [根据官网](https://www.emotiv.com/emotiv-launcher/)点击下载链接
@@ -23,7 +24,6 @@
 # 收费标准
 <!-- 以下是关于软件的整理, 请使用md preview等markdown阅览工具或复制到以下网址进行查看 -->
 <!-- https://www.latex-tables.com/-->
-
 
 | **序号** | **软件** | **作用**                                                                                                         | **收费标准**                                                                                                                                                                                                                                                                                            | 参考资料                                                                                                         |
 | :------- | :------------------ | :-------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
@@ -45,3 +45,22 @@
 4. 有没有不用钱就能满足需求的
     - emotiv github
 5. 整理license, 特别是bussiness<https://www.emotiv.com/developer/#dev-license-option>
+
+# github上代码
+
+- [emotiv on github](https://github.com/Emotiv)
+- [ozancaglayan/python-emotiv: A Python module to access Emotiv EPOC EEG headset on Linux.](https://github.com/ozancaglayan/python-emotiv)
+- [openyou/emokit: Open source driver for accessing raw data from the Emotiv EPOC EEG headset](https://github.com/openyou/emokit)
+- [venthur/mushu: OFFICIAL REPOSITORY HAS MOVED TO: https://github.com/bbci/mushu](https://github.com/venthur/mushu)
+- [codehunks/emotiv: Sample Apps for EPOC EMOTIVE device](https://github.com/codehunks/emotiv)
+- [openyou/emokit: Open source driver for accessing raw data from the Emotiv EPOC EEG headset](https://github.com/openyou/emokit)
+- [zsdonghao/EmotivEPOC: Emotiv EPOC 脑电仪代码 ／ Code for Emotiv EPOC](https://github.com/zsdonghao/EmotivEPOC)
+- [landonwilkins/community-sdk: Emotiv SDK Community Edition](https://github.com/landonwilkins/community-sdk)
+- [Surayez/EmotivDriverDistraction: This repository provides the source code for a IJCAI 2020 demo on detecting driver's distraction.](https://github.com/Surayez/EmotivDriverDistraction)
+- [mathigatti/EmotivExperiments: Go-NoGo and Resting, cognitive experiments for Emotiv Epoch](https://github.com/mathigatti/EmotivExperiments)
+- [UttaranB127/GeneratingEmotiveGaits: This is the official implementation of the paper "Generating Emotive Gaits for Virtual Agents Using Affect-Based Autoregression".](https://github.com/UttaranB127/GeneratingEmotiveGaits)
+- [zabir-nabil/pyemotivcortexv2: Simply written emotiv cortex API v2 in python to get data from emotiv headsets](https://github.com/zabir-nabil/pyemotivcortexv2)
+- [Agitolyev/emotiv-client](https://github.com/Agitolyev/emotiv-client)
+- [mathigatti/EmotivClassifier: Scripts for prediction of individual characteristics based on brain connectome using Emotiv Epoch Data](https://github.com/mathigatti/EmotivClassifier)
+- [xribene/Emokit_Epoc_GUI: A GUI using PyQt and Emokit library to plot PSD and raw data in real time from Emotiv Epoc](https://github.com/xribene/Emokit_Epoc_GUI)
+- [carlosfigueroa1711/Adquisici-n_EEG_matlab-python: En este repositorio se trabaja con mindwave y con emotiv epoc desde python y matlab](https://github.com/carlosfigueroa1711/Adquisici-n_EEG_matlab-python)
